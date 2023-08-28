@@ -22,7 +22,7 @@ O principal objetivo da documentação de código fonte é aumentar a capacidade
 
 * [FIGMA](https://www.figma.com/) - Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows..
 
-<h1 align="center">  MANUAL: Documentação Ambiente (template passo a passo)</h1>
+<h1 align="center">  MANUAL: Documentação Ambiente (template)</h1>
 
 <p align="center">
     <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0001.jpg" alt="imagem-site" width="900" height="auto">
