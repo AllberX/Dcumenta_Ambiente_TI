@@ -22,7 +22,84 @@ O principal objetivo da documentação de código fonte é aumentar a capacidade
 
 * [FIGMA](https://www.figma.com/) - Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows..
 
+<h1 align="center">  MANUAL: Documentação Ambiente (template passo a passo)</h1>
 
-## Desenvolvedor web
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0001.jpg" alt="imagem-site" width="900" height="auto">
+</p>
 
-* **Sylvio A C Silva** - *Analista Desenvolvedor de Sistemas | Gestor de Tecnologia | Webmaster*
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0002.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0003.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0004.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0005.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0006.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0007.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0008.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0009.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0010.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0011.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0012.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0013.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0014.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0015.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0016.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0017.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0018.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+<p align="center">
+    <img src="ManualDocumentaçãoAmbientedeTIporAllberXCastro-imagens/0019.jpg" alt="imagem-site" width="900" height="auto">
+</p>
+
+
+## S. Alberto C. Silva
+ *Analista Desenvolvedor de Sistemas | Gestor de Tecnologia | Webmaster*
