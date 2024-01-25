@@ -1,4 +1,4 @@
-<h1 align="center">  Documentação Ambiente</h1>
+<h1 align="center">Documentação Ambiente</h1>
 
 <p align="center">
     <img src="img/demonstracao.jpg" alt="imagem-site" width="900" height="auto">
@@ -103,3 +103,4 @@ O principal objetivo da documentação de código fonte é aumentar a capacidade
 
 ## S. Alberto C. Silva
  *Analista Desenvolvedor de Sistemas | Gestor de Tecnologia | Webmaster*
+#Documentação #Ambiente #TI #ticketmanager #gestãoTi #ProcessosTi
